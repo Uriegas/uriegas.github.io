@@ -16,23 +16,23 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: 'https://twitter.com/uriegas_eduardo'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: jesusuriegas18@gmail.com
+phone: (+52) 834 352 8863
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Av. de las Tecnologias
+  city: Cd. Victora
+  region: Tam
+  postcode: '87130'
+  country: Mexico
+  country_code: MX
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Enter Tecnotam until you reach the end of the park.
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -41,7 +41,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/uriegas_eduardo'
   - icon: skype
     icon_pack: fab
     name: Skype Me
