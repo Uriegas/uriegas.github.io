@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Uriegas Blog</title>
+    <title>Eduardo Uriegas</title>
     <link>https://uriegas.github.io/</link>
       <atom:link href="https://uriegas.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Uriegas Blog</description>
+    <description>Eduardo Uriegas</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Eduardo Uriegas</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://uriegas.github.io/media/icon_hu14a8af1fc7cad62fae7c001678be6cd4_38445_512x512_fill_lanczos_center_3.png</url>
-      <title>Uriegas Blog</title>
+      <title>Eduardo Uriegas</title>
       <link>https://uriegas.github.io/</link>
     </image>
     
